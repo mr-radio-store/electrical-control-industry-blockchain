@@ -1,0 +1,2 @@
+g++ electrical_control_industry_blockchain.cpp -o electrical_control_industry_blockchain -lssl -lcrypto `pkg-config --cflags --libs opencv4`
+
